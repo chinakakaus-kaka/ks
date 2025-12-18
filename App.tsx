@@ -102,7 +102,7 @@ const App: React.FC = () => {
         {/* Footer */}
         <footer className="bg-white border-t border-gray-200 py-6 mt-auto">
           <div className="max-w-7xl mx-auto px-4 text-center text-sm text-gray-400">
-            <p>© {new Date().getFullYear()} 云南公司业务管理中心. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} 业务管理中心. All rights reserved.</p>
             <p className="mt-1 text-xs">内部系统 | 请勿外传</p>
           </div>
         </footer>
