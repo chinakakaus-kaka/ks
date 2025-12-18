@@ -9,7 +9,7 @@ const Logo: React.FC<{ className?: string }> = ({ className = "h-10" }) => {
         <path d="M60 30 L60 40 C66 40 70 44 70 50 C70 56 66 60 60 60 L60 70 C72 70 80 60 80 50 C80 40 72 30 60 30 Z" />
       </svg>
       <div className="flex flex-col leading-tight">
-        <span className="font-bold text-[#005697] text-lg tracking-wide">中国电信</span>
+        <span className="font-bold text-[#005697] text-lg tracking-wide">业管>ye'gua
         <span className="text-[#005697] text-xs tracking-wider">CHINA TELECOM</span>
         <span className="text-gray-500 text-[0.6rem] font-medium">业管中心</span>
       </div>
