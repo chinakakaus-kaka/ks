@@ -1,0 +1,5 @@
+{
+  "name": "云电业管在线考试系统",
+  "description": "China Telecom Yunnan Branch Operations Management Center Examination System. Features user registration, randomized exams based on internal regulations, score tracking, and performance review.",
+  "requestFramePermissions": []
+}
