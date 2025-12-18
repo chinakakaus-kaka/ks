@@ -11,7 +11,7 @@ const Logo: React.FC<{ className?: string }> = ({ className = "h-10" }) => {
       <div className="flex flex-col leading-tight">
         <span className="font-bold text-[#005697] text-lg tracking-wide">中国电信</span>
         <span className="text-[#005697] text-xs tracking-wider">CHINA TELECOM</span>
-        <span className="text-gray-500 text-[0.6rem] font-medium">云南公司业管中心</span>
+        <span className="text-gray-500 text-[0.6rem] font-medium">业管中心</span>
       </div>
     </div>
   );
